@@ -10,7 +10,7 @@ Through an illustrative medical example and a separate limited capacity experime
 
 ## Example
 
-![pedestrian_gain](https://github.com/AdamCobb/LCBNN-TEST/blob/master/models/segnet/exp4_150_epoch/plots/gain_ped_1.png)
+![pedestrian_gain](https://github.com/AdamCobb/LCBNN/blob/master/models/segnet/exp4_150_epoch/plots/gain_ped_1.png)
 
 ## Getting Started
 
@@ -24,5 +24,5 @@ Through an illustrative medical example and a separate limited capacity experime
 > The data for the SegNet experiment comes from the repository: https://github.com/alexgkendall/SegNet-Tutorial.git
 
 ## Contact Information
-Adam Cobb: acobb@robots.ox.ac.uk
+[Adam Cobb](https://adamcobb.github.io/): adam.cobb@sri.com
 
